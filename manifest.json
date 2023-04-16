@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "Faceit Player Report",
+    "description": "Report players in Faceit",
+    "version": "1.0",
+    "action":{
+        "default_popup": "menu/menu.html",
+        "default_icon": "img/icon.png"
+    }
+}
